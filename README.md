@@ -61,4 +61,18 @@
         }
 ```
 
+```cpp
+        #include<iostream>
+```
+
+```bash
+        echo "回显命令"
+        ls -s
+        date
+        ps aux
+```
+
+### 插入图片 \!\[图片标题]\(地址 "悬停标题")
+![壁纸截图](C://Users//张康//Desktop//xx.png "壁纸")
+
 
