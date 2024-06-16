@@ -42,17 +42,23 @@
     2. 内存
 2. 数据库
     1. redis
-    2. mysql
-
-### 表格
-|姓名|年龄|技能|武力值|
---|:--|:--|:--|:
-|刘备|35|顾应剑|79|
-|张飞|30|破军|95|
-|关羽|34|威震华夏|99|
+    2. myqsl
 
 
 ### 超链接 \[超链接标题\](链接地址 "悬停标题")
 [百度搜素](https://www.baidu.com "点击进入")
+
+
+### 插入代码片段 c cpp python bash
+
+```c
+        #include<stdio.h>
+        #include<unistd.h>
+        int main(){
+            printd("c语言大法好");
+            return 0;
+
+        }
+```
 
 
